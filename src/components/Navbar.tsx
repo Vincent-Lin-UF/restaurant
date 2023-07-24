@@ -1,7 +1,6 @@
 import React from 'react'
 import Menu from './Menu'
 import Link from 'next/link'
-import CartIcon from './CartIcon';
 import Image from 'next/image';
 
 const Navbar = () => {
